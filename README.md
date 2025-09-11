@@ -26,3 +26,13 @@ This is a table that shows 4 people who I want to meet. These are all former pla
 > "Everything is theoretically impossible, until it is done." - *Rober A. Heinlein*
 > 
 > "Above all, don't fear difficult moments. The best comes from them." - *Rita Levi-Montalcini*
+***
+## Code Fencing ##
+The snippet is a list comprehension with conditionals. Allowing you to perfrom different operations in a list comp depending on a conditional.
+```
+l = [-1, 3, -4, 5, 6, -9]
+l = [x if x >= 0 else 0 for x in l] 
+```
+This is a link to go to the snippet source: <https://pieces.app/collections/python>
+
+
