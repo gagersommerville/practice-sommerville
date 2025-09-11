@@ -21,3 +21,8 @@ This is a table that shows 4 people who I want to meet. These are all former pla
 | Mike Ditka | Favortite Coach | 09/18/1939 | NA |
 | Gale Sayers | 2nd Favorite Player | 05/30/1943 | 08/23/2020 | 
 | Brian Urlacher | Favorite Defensive Player | 05/25/1978 | NA |
+***
+## Favorite Inspirational Quotes ##
+> "Everything is theoretically impossible, until it is done." - *Rober A. Heinlein*
+> 
+> "Above all, don't fear difficult moments. The best comes from them." - *Rita Levi-Montalcini*
