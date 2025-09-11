@@ -11,3 +11,4 @@ I really like the show because it basically gives you an **up close view** of ho
 - Home Improvement
 - Pokemon
 
+This link will take you to the MyActivity markdown. <https://github.com/gagersommerville/practice-sommerville/blob/main/MyActivity.md>
